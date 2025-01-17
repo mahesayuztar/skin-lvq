@@ -8,18 +8,23 @@ Tahapan proyek meliputi preprocessing dataset, ekstraksi fitur, pelatihan model,
 ## Screenshot dan Visualisasi
 
 1. **Preprocessing Dataset**
+
 ![Image](https://github.com/user-attachments/assets/81dcbbeb-cd85-4a5c-9f13-394e4de8d369)
 
 2. **Feature Extraction**
+
 ![Image](https://github.com/user-attachments/assets/2c42993d-db68-4bb6-b6f9-74b28df505c8)
 
 3. **Rata-rata Histogram LBP per-class**
+
 ![Image](https://github.com/user-attachments/assets/399c4a0b-44d4-4705-b913-0f8ef211022e)
 
 4. **Confusion Matrix sebagai Evaluasi Model**
+
 ![Image](https://github.com/user-attachments/assets/d0d2a2ec-50f2-441f-b849-01be38d6bfe4)
 
 5. **Hasil Testing terhadap Model**
+
 ![Image](https://github.com/user-attachments/assets/358fad2e-48d3-4865-8e3f-f903384b8af4)
 
 ## Teknologi yang Digunakan
