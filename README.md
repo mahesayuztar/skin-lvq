@@ -93,7 +93,4 @@ Proyek ini terdiri dari beberapa tahapan utama:
    - Model disimpan dalam format `.pkl` menggunakan Pickle.
    - Website dibangun dengan Streamlit untuk memberikan antarmuka yang interaktif kepada pengguna.
 
----
-
-Silakan tinjau README ini untuk memastikan informasi yang disajikan sesuai kebutuhan Anda. Jika ada perubahan atau tambahan, beri tahu saya!
 
